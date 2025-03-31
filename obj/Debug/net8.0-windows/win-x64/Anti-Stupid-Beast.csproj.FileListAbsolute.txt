@@ -1,0 +1,10 @@
+D:\AntiBeltMeasure\CoreJ\Plugins\Temp\Anti-Stupid-Beast\Anti-Stupid-Beast.deps.json
+D:\AntiBeltMeasure\CoreJ\Plugins\Temp\Anti-Stupid-Beast\Anti-Stupid-Beast.dll
+D:\AntiBeltMeasure\CoreJ\Plugins\Source\Anti-Stupid-Beast\obj\Debug\net8.0-windows\win-x64\Anti-Stupid-Beast.csproj.AssemblyReference.cache
+D:\AntiBeltMeasure\CoreJ\Plugins\Source\Anti-Stupid-Beast\obj\Debug\net8.0-windows\win-x64\Anti-Stupid-Beast.GeneratedMSBuildEditorConfig.editorconfig
+D:\AntiBeltMeasure\CoreJ\Plugins\Source\Anti-Stupid-Beast\obj\Debug\net8.0-windows\win-x64\Anti-Stupid-Beast.AssemblyInfoInputs.cache
+D:\AntiBeltMeasure\CoreJ\Plugins\Source\Anti-Stupid-Beast\obj\Debug\net8.0-windows\win-x64\Anti-Stupid-Beast.AssemblyInfo.cs
+D:\AntiBeltMeasure\CoreJ\Plugins\Source\Anti-Stupid-Beast\obj\Debug\net8.0-windows\win-x64\Anti-Stupid-Beast.csproj.CoreCompileInputs.cache
+D:\AntiBeltMeasure\CoreJ\Plugins\Source\Anti-Stupid-Beast\obj\Debug\net8.0-windows\win-x64\Anti-Stupid-Beast.dll
+D:\AntiBeltMeasure\CoreJ\Plugins\Source\Anti-Stupid-Beast\obj\Debug\net8.0-windows\win-x64\refint\Anti-Stupid-Beast.dll
+D:\AntiBeltMeasure\CoreJ\Plugins\Source\Anti-Stupid-Beast\obj\Debug\net8.0-windows\win-x64\ref\Anti-Stupid-Beast.dll
